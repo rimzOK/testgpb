@@ -1,7 +1,6 @@
 # testgpb
 
 Minimum edition requirements : "Standart"<br>
-PHP 8.0+
 
 step 1 : Copy folders in testgpb into you project<br>
 step 2 : Run command in PHP bitrix<br>
