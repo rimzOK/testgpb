@@ -1,5 +1,5 @@
 # testgpb
-Minimum edition requirements : "Standart"
+Minimum edition requirements : "Standart"<br>
 step 1 : Copy file in you project<br>
 step 2 : Run command in PHP bitrix<br>
 <code>\Classes\IBlockStructure::create();</code><br>
